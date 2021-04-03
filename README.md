@@ -1,7 +1,7 @@
 # CS-261-Assignment-2
 Assignment Completed On 01-27-2020
 
-Assignment Description: This assignment was for an analysis of algorihms class. The given problem was to convert a bag into a set.
+Assignment Description: This assignment was for a Data Structures class. The given problem was to convert a bag into a set.
 
 Program Example Run:
 
